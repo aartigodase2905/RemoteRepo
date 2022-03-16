@@ -1,6 +1,6 @@
 class A{
 
-p s vm(){
+
 Hello
 }
 }
